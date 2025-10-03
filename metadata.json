@@ -1,0 +1,5 @@
+{
+  "name": "Laser Dots",
+  "description": "A simple, two-player online laser tag game where two dots try to shoot each other. The first player to land a hit wins the round.",
+  "requestFramePermissions": []
+}
